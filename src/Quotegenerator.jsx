@@ -59,9 +59,9 @@ function Quotegenerator() {
       sx={{
         display: 'flex',
         marginTop:"25px",
-        marginLeft: '220px',
-        width: '900px',
-        height: 'auto',
+        marginLeft: '150px',
+        width: '1100px',
+        height: '450px',
         backgroundRepeat: 'no-repeat',
         backgroundSize: 'cover',
         backgroundImage: 'url(https://i.pinimg.com/1200x/4b/e0/1c/4be01c2f652b2ce1af3c88b24b9af4dc.jpg)',
